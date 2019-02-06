@@ -1,0 +1,19 @@
+.container{
+    display: grid;
+    grid-template-areas: ;
+    grid-gap: ;
+}
+header{
+    background: blue;
+    grid-area: header;
+}
+aside{
+    grid-area: sidebar;
+    background: red;
+}
+aside{
+
+}
+footer{
+    grid-area: footer;
+}
